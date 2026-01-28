@@ -4,5 +4,3 @@ I’m currently working on a small 2D pixel game Echoes of Emberfield with my fr
 I’m currently learning C#, C, Python, bash, Linux, webdev and cybersecurity.
 I’m looking for help with Unity 2D game making, fullstack webdev and cybersecurity knowlage and principles!
 If you wanna reach me try Discord! My username is lunix.dev
-
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
